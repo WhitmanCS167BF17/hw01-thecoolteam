@@ -1,0 +1,30 @@
+= Homework 0: Getting Started =
+
+1 point
+
+== 1. Goals ==
+The goal is to get used to course tools and let me know who you are!
+
+== 2. Tasks ==
+=== 2.1 Who are you? ===
+Submit a response the the "Homework 0 Responses" Forum in Cleo 
+and let me know about yourself. Specifically:
+--
+. How do you wish to be called, if not by the name that shows up on Cleo?
+. What pronouns should be used to refer to you?
+. What inspired you to take this course?
+. What is your computer experience before this class?
+. What do you hope to get from this class?
+. Is there anything else you want me to know? (Hobbies, interests, etc.)?
+--
+Responses will be public and viewable by all, so keep that in mind when you post.
+If there is anything that you want me specifically to know, but you'd rather not 
+share with the class, please send me an e-mail.
+
+=== 2.2 Log into a CS computer ===
+Make sure that you are able to log in to the lab computers in Olin.
+If you have any problems, please ask Dustin Palmer.
+
+== 3. Submission Notes ==
+This homework may be submitted late if you were not able to register for this class
+immediately. (That is, if you were on the waitlist, etc.)

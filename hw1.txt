@@ -1,0 +1,78 @@
+= Homework 1: In the Beginning was the Command Line =
+
+5 points
+
+== 1. Goals ==
+The goal of this homework is to get you used to using the computers
+here in the labs, and getting started with one of our main tools.
+
+== 2. Setup and Requirements ==
+While you may be able to work on homework assignments on your personal
+computers, it's worth while to learn how to use the lab computers and
+the tools on them. You'll need to be able to log in to the computers 
+in Olin 124. If you are having trouble with logging in, contact 
+Dustin Palmer.
+
+== 3. Your Task ==
+=== What is a ``Command Line''? ===
+We will be using a particular
+tool on these computers that you may not be familiar with, known as the 
+``Command Line''.
+
+In the olden days of computing, (around 1960 - 1970,) there weren't fancy
+displays. Most computer monitors were only capable of extremely simple graphics,
+and generally they were restricted to displaying only alphanumeric characters,
+80 columns by 25 lines. 
+
+Therefore, the entire interaction was by typing the names of commands into
+this window, then pressing ``Return'' to begin the command. Imagine that 
+every time you wanted to run Firefox, you had to type ``Firefox'' and press
+enter. That's how it all worked. (Of course, there wouldn't have been any 
+program with graphics as fancy as Firefox, but that's beside the point.)
+
+It may sound terrible, but it was (and still is) an essential tool for a
+programmer. Although it may be hard to believe, there are certain interactions
+that are much easier in a command line interface than with the Mouse-and-Graphics 
+interface that you are used to.
+
+In fact, if you're interested about the history of the early days of computer interaction, 
+and the first 30 years of operating system evolution, you can download and read an entertaining 
+version titled
+link:http://www.cryptonomicon.com/beginning.html[In the Beginning was the Command Line].
+(This is in no way required for this assignment or the course, it's simply interesting
+and funny.)
+
+To learn the command line, log in to one of the lab machines in Olin 124. 
+
+Once you have logged in, run the Application *Terminal*. (It should have a shortcut in
+the dock.) This will open up small 
+window that displays text characters (specifically, it is 80 columns by 25 lines.)
+In the window you'll see something like this:
+----
+exleyas@holberton:~$ 
+----
+Voila! This is your command line. The line of text there is known as the 
+*prompt*. There is actually a lot of information in that 
+cryptic line: It is telling you your username (in my case, +exleyas+,) your computer name 
+(+holberton+,) and your current directory (+~+, which is a special name for the current 
+user's home directory.) 
+
+Now, go through _Typograhical Conventions_, _Introduction to
+the UNIX Operating System_, and _Tutorials 1-4_ of this
+link:http://cs.carleton.edu/faculty/jondich/documents/unixtutorial/[tutorial].
+The tutorial was originally written for the Unix operating system and for
+students at the University of Surrey (note British spellings,) but it is still
+accurate enough for us.
+
+One difference is that on their system, the final character of the prompt is a +%+,
+but on our systems it is a +$+. So all their examples of what to type begin with a +%+
+character. Don't type this in to the command line. It is simply an indicator of 
+what the prompt looks like.
+
+== 4. Submission ==
+This assignment may be submitted late and still counted as on time if you were not able 
+to enroll in the class until after the due date.
+
+Submit the *biglist* file that you created in tutorial 3.
+
+Use the homework submission tool linked to from the course web site.
